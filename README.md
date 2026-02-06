@@ -81,8 +81,8 @@ print(solution(test_input))  # Expected output
 ### Week 1
 | Day | Problem | Difficulty | Pattern | Status |
 |-----|---------|-----------|---------|--------|
-| Day 1 | #1 Two Sum | Easy | Arrays & Hashing | ⬜ |
-| Day 1 | #217 Contains Duplicate | Easy | Arrays & Hashing | ⬜ |
+| Day 1 | #1 Two Sum | Easy | Arrays & Hashing | ✅ |
+| Day 1 | #217 Contains Duplicate | Easy | Arrays & Hashing | ✅ |
 | Day 2 | #242 Valid Anagram | Easy | Arrays & Hashing | ⬜ |
 | Day 2 | #1 Two Sum (re-solve) | Easy | Arrays & Hashing | ⬜ |
 | Day 3 | #125 Valid Palindrome | Easy | Two Pointers | ⬜ |
@@ -107,8 +107,8 @@ print(solution(test_input))  # Expected output
 ## 🔥 Streak
 
 **Start Date:** February 2026
-**Current Streak:** 0 days
-**Total Problems Solved:** 0
+**Current Streak:** 2 days
+**Total Problems Solved:** 4
 
 ---
 
