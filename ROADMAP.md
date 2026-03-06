@@ -14,8 +14,8 @@
 | Day | Problem 1 | Problem 2 | Status |
 |-----|-----------|-----------|--------|
 | Day 1 (Mon) | #1 Two Sum | #217 Contains Duplicate | ✅ Done |
-| Day 2 (Tue) | #242 Valid Anagram | #49 Group Anagrams (Med) | ✅ Done |
-| Day 3 (Wed) | #383 Ransom Note | #169 Majority Element | ⬜ |
+| Day 2 (Tue) | #242 Valid Anagram | #383 Ransom Note | ✅ Done |
+| Day 3 (Wed) | #169 Majority Element | ✅ Done |
 | Day 4 (Thu) | #219 Contains Duplicate II | #349 Intersection of Two Arrays | ⬜ |
 | Day 5 (Fri) | #136 Single Number | #268 Missing Number | ⬜ |
 | Sat | Review + re-solve 2 hardest from this week | | ⬜ |
